@@ -173,7 +173,7 @@ const numUnfundedGames = listOfUnfundedGames.length;
 // create a string that explains the number of unfunded games using the ternary operator
 let newDescr = document.createElement("p");
 newDescr.innerHTML = `
-    <p id="center"> A total of $800,268 has been raised for 11 games. Currently, ${numUnfundedGames} ${numUnfundedGames == 1 ? "game" : "games"} remain unfunded. 
+    <p class="center"> A total of $800,268 has been raised for 11 games. Currently, ${numUnfundedGames} ${numUnfundedGames == 1 ? "game" : "games"} remain unfunded. 
     We need your help to fund these amazing games! </p>
 `;
 
