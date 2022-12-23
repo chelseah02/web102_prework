@@ -33,9 +33,11 @@ GIF created with GIPHY
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
+## Notes and Takeaways
 
-Describe any challenges encountered while building the app.
+I refreshed my knowledge about helpful JS built-in features, such as filter(), reduce(), destructuring, and the spread operator to engage with arrays. I enjoyed exploring this pre-work assignment and preparing myself to improve my future web development skills. I was challenged by the task in Challenge 3, specifically by the DOM manipulation skills, and this most challenging task presented itself to be the most rewarding and interesting to engage with. 
+
+I am particularly looking forward to learning how to utilize databases when connecting data to the frontend of an application. This is because I aspire to be a full stack web developer post-graduation, and I believe this course will help me begin developing the skills crucial to success in my career goals. 
 
 ## License
 
